@@ -149,17 +149,17 @@ Synthetic data was generated using a **conditional multivariate Gaussian** appro
 
 #### Performance Across Models
 
-<img src="results/figures/cont_boxes_R2_stratified.png" width="100%"/>
+<img src="cont_boxes_R2_stratified.png" width="100%"/>
 
-<img src="results/figures/cont_boxes_RMSE_stratified.png" width="100%"/>
+<img src="cont_boxes_RMSE_stratified.png" width="100%"/>
 
 #### Site Generalization (LOSO)
 
-<img src="results/figures/cont_loso_site_heatmap.png" width="50%"/>
+<img src="cont_loso_site_heatmap.png" width="50%"/>
 
 #### Predicted vs Actual TAU_SUVR. Best Model (Random Forest)
 
-<img src="results/figures/cont_scatter_RandomForestRegressor_all.png" width="55%"/>
+<img src="cont_scatter_RandomForestRegressor_all.png" width="55%"/>
 
 #### Metrics. All Predictor Set (mean ± SD across 15 CV folds)
 
@@ -189,17 +189,17 @@ Synthetic data was generated using a **conditional multivariate Gaussian** appro
 
 #### Performance Across Models
 
-<img src="results/figures/binary_boxes_AUC_ROC.png" width="100%"/>
+<img src="binary_boxes_AUC_ROC.png" width="100%"/>
 
-<img src="results/figures/binary_boxes_AUC_PR.png" width="100%"/>
+<img src="binary_boxes_AUC_PR.png" width="100%"/>
 
-<img src="results/figures/binary_boxes_Bal_Accuracy.png" width="100%"/>
+<img src="binary_boxes_Bal_Accuracy.png" width="100%"/>
 
 #### ROC Curves and Calibration
 
 <p float="left">
-  <img src="results/figures/binary_roc_all.png" width="49%"/>
-  <img src="results/figures/binary_calibration_all.png" width="49%"/>
+  <img src="binary_roc_all.png" width="49%"/>
+  <img src="binary_calibration_all.png" width="49%"/>
 </p>
 
 #### Metrics. All Predictor Set (mean ± SD, threshold = 0.445)
@@ -229,17 +229,17 @@ Synthetic data was generated using a **conditional multivariate Gaussian** appro
 ### Feature Importance (SHAP)
 
 <p float="left">
-  <img src="results/figures/shap_beeswarm_cont_RandomForestRegressor.png" width="49%"/>
-  <img src="results/figures/shap_multimodel_cont.png" width="49%"/>
+  <img src="shap_beeswarm_cont_RandomForestRegressor.png" width="49%"/>
+  <img src="shap_multimodel_cont.png" width="49%"/>
 </p>
 
-<img src="results/figures/shap_multimodel_bin.png" width="70%"/>
+<img src="shap_multimodel_bin.png" width="70%"/>
 
 ---
 
 ### Brain Visualization
 
-<img src="results/figures/brain_metaroi_glass.png" width="100%"/>
+<img src="brain_metaroi_glass.png" width="100%"/>
 
 ---
 
